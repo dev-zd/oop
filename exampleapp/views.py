@@ -17,4 +17,4 @@ def index(request):
     return render(request, 'index.html')
 
 
-
+print("Hello, World!")
